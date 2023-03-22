@@ -12,7 +12,7 @@ Para utilizar o programa, basta seguir os seguintes passos:
 
 2. Baixe e extraia a pasta contendo os arquivos do programa em seu computador.
 
-3. Abra o arquivo `player.py` com um editor de código ou IDE.
+3. Abra o arquivo `player-mp3.py` com um editor de código ou IDE.
 
 4. Execute o programa, seja através do editor de código/IDE ou pelo terminal/prompt de comando utilizando o comando `python player.py`.
 
